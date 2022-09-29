@@ -1,0 +1,14 @@
+{
+  "personalCap": 1,
+  "timestamps": {
+    "preSaleStartTs": "1664456400",
+    "preSaleEndTs": "1664478000",
+    "publicSaleStartTs": "1664478000",
+    "publicSaleEndTs": "1672297257"
+  },
+  "whitelistMerkleRoot": "0x72171f43fb0958dc4522ffb3f3f844895b5902180402fac87760d47e6bbcdf35",
+  "supplies": {
+    "presaleSupply": 9400,
+    "publicSupply": 0
+  }
+}
